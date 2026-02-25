@@ -701,11 +701,6 @@
       "base": "База",
       "nuclear": "Ядерный"
     },
-    "community": {
-      "joinDiscussion": "Присоединиться к обсуждению",
-      "openDiscussion": "Открыть обсуждение",
-      "dontShowAgain": "Больше не показывать"
-    },
     "threatLabels": {
       "critical": "КРИТ",
       "high": "ВЫС",

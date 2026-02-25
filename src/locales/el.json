@@ -729,11 +729,6 @@
       "base": "Βάση",
       "nuclear": "Πυρηνικό"
     },
-    "community": {
-      "joinDiscussion": "Συμμετοχή στη Συζήτηση",
-      "openDiscussion": "Ανοιχτή Συζήτηση",
-      "dontShowAgain": "Να μην εμφανιστεί ξανά"
-    },
     "threatLabels": {
       "critical": "ΚΡΙΣ",
       "high": "ΥΨΗΛ",
